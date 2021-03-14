@@ -1,3 +1,3 @@
 # Gradient
 
-![Simulator Screen Shot - iPhone 8 - 2021-03-15 at 01 45 28](https://user-images.githubusercontent.com/61166305/111086976-3344bf80-8530-11eb-94c7-190002da1395.png)
+![Gradient](https://user-images.githubusercontent.com/61166305/111087136-e6151d80-8530-11eb-9aa2-2705a32cf8a4.png)
